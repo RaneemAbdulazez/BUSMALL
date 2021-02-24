@@ -1,0 +1,97 @@
+body{
+min-height: 800vh
+
+}
+
+
+header{
+height: 200px;
+width: auto;
+position: relative;
+border: solid;
+padding: 10px;
+margin: 10px;
+
+}
+
+
+#logo{
+position: absolute;
+float: left;
+border: solid;
+margin: 50px 10px;
+}
+
+
+#title{
+    position: absolute;
+    left: 250px;
+    top: 50px;
+
+}
+
+
+#images{
+    display: inline-flex;
+    position: relative;
+    border: solid;
+    height: 400px;
+    width: 950px;
+  margin: 10px;
+    padding: 10px;
+    float: right;
+
+    
+
+
+}
+
+#firstImage{
+max-height: 200px;
+/* width: 200px; */
+border: solid;
+margin: 20px;
+
+
+}
+
+#secoundImage{
+    max-height: 200px;
+border: solid;
+margin: 20px;
+
+
+
+
+
+
+}
+#thirdImage{
+
+    margin: 20px;
+
+    max-height: 200px;
+border: solid;
+
+
+}
+
+#ViewResults{
+  
+
+
+    border-radius: 4px;
+    background-color: #3f587e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    height: 100px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    float:initial;
+}
+  
